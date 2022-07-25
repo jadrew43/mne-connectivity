@@ -12,3 +12,5 @@ wheel
 statsmodels
 scikit-learn
 https://github.com/mne-tools/mne-bids/archive/main.zip
+# TODO: replace autograd with jax
+autograd
